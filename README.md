@@ -5,16 +5,8 @@
  <div>
   <p align="center"> <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Your Gif" width="400" height="220" /> </p>
 
-  <p align="left">
-    - 📫   How to reach me: **hingmang75@gmail.com**
-    <br>
-    - 📄   Know about my experiences: https://bronze-joanne-63.tiiny.site/](https://bronze-joanne-63.tiiny.site/)
-  </p>
-</div>
-
  
-
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rahul-kumar-mandal-37923a243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-kumar-mandal-37923a243" height="30" width="40" /></a>
