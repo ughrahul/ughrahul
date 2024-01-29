@@ -8,7 +8,7 @@
   <p align="left">
     - 📫   How to reach me: **hingmang75@gmail.com**
     <br>
-    - 📄   Know about my experiences: [https://bronze-joanne-63.tiiny.site/](https://bronze-joanne-63.tiiny.site/)
+    - 📄   Know about my experiences: https://bronze-joanne-63.tiiny.site/](https://bronze-joanne-63.tiiny.site/)
   </p>
 </div>
 
