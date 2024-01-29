@@ -1,4 +1,4 @@
-![logo](https://w7.pngwing.com/pngs/48/172/png-transparent-web-development-software-development-web-design-web-strategy-mobile-app-development-banner-creative-search-engine-optimization-company-text.png)
+
 <h1 align="center">Hi 👋, I'm Rahul Kumar Mandal</h1>
 <h3 align="center">A passionate Web-Developer from Nepal.</h3>
 
