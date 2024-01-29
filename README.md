@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rahul Kumar Mandal</h1>
-<h3 align="center">A passionate Web-Developer from Nepal.</h3>
+# <p align="center">A passionate Web Developer from Nepal.</p>
+
 
  <div>
   <p align="center"> <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Your Gif" width="400" height="220" /> </p>
@@ -14,5 +15,4 @@
 <a href="https://fb.com/https://facebook.com/rahulcool45/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/rahulcool45/" height="30" width="40" /></a>
 <a href="https://instagram.com/ugh_rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ugh_rahul" height="30" width="40" /></a>
 </p>
-
 
