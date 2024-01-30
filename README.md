@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rahul Kumar Mandal</h1>
-# <p align="center">A passionate Web Developer from Nepal.</p>
+<p align="center">A passionate Web Developer from Nepal.</p>
 
 
  <div>
