@@ -14,10 +14,10 @@
   <a href="https://linkedin.com/in/rahulkumarmandal" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-kumar-mandal-37923a243" height="30" width="40" />
   </a>
-  <a href="https://facebook.com/rahulcool45/" target="_blank" rel="noopener noreferrer">
+  <a href="https://facebook.com/rahulcool45/about" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/rahulcool45/" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/ugh_rahul" target="_blank" rel="noopener noreferrer">
+  <a href="https://instagram.com/ugh.rahul" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ugh_rahul" height="30" width="40" />
   </a>
 </p>
