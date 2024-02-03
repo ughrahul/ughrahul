@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/rahul-kumar-mandal-37923a243" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="www.linkedin.com/in/rahulkumarmandal" alt="rahul-kumar-mandal-37923a243" height="30" width="40" />
+    <img align="center" src="https://www.linkedin.com/in/rahulkumarmandal" alt="rahul-kumar-mandal-37923a243" height="30" width="40" />
   </a>
   <a href="https://facebook.com/rahulcool45/" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/rahulcool45/" height="30" width="40" />
@@ -21,3 +21,4 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ugh_rahul" height="30" width="40" />
   </a>
 </p>
+
