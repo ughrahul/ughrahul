@@ -4,7 +4,7 @@
 
 
 <p align="center">
-   <img src="https://media0.giphy.com/media/elrFAUtV7ZOH7TSPhF/giphy.webp?cid=ecf05e479v55zulduimzga7yeumrp8982kznms3pxs48pi3r&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="Your Gif" width="500" height="300" />
+   <img src="https://media.tenor.com/uCwqkcjxqtwAAAAM/typing-fast.gif" alt="Your Gif" width="500" height="300" />
 </p>
 
 
