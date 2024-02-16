@@ -1,4 +1,4 @@
-<img src="https://github.com/ughrahul/ughrahul/blob/main/meow.png" alt="logo" width="1600">
+![logo ](https://github.com/ughrahul/ughrahul/blob/main/meow.png)
 
 
 
