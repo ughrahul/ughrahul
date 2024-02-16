@@ -1,3 +1,4 @@
+![logo](https://github.com/ughrahul/ughrahul/blob/main/meow.png)
 <h1 align="center"><b>Hi 👋, I'm Rahul Kumar Mandal</b></h1> 
 
 <h3 align="center">A passionate Engineer & Developer from Nepal</h3>
