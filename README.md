@@ -1,4 +1,4 @@
-<h1 align="center"><font size="20">Hi 👋, I'm Rahul Kumar Mandal</font></h1>
+<h1 align="center"><b>Hi 👋, I'm Rahul Kumar Mandal</b></h1> text size
 
 <h3 align="center">A passionate Engineer & Developer from Nepal</h3>
 
