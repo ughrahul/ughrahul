@@ -5,7 +5,7 @@
 
 
 
-- 👨‍💻 My Portfolio at https://ughrahul.github.io/portfoliio.github.io/
+👨‍💻 My Portfolio at https://ughrahul.github.io/portfoliio.github.io/
 
 
 <h3 align="left">Connect with me:</h3>
