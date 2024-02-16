@@ -4,7 +4,7 @@
 
 
 <p align="center">
-   <img src="https://media.tenor.com/uCwqkcjxqtwAAAAM/typing-fast.gif" alt="Your Gif" width="500" height="300" />
+   <img src="https://media.tenor.com/uCwqkcjxqtwAAAAM/typing-fast.gif" alt="Your Gif" width="800" height="400" />
 </p>
 
 
