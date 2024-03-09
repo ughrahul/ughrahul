@@ -6,7 +6,8 @@
 
 
 
-| 👨‍💻 | Portfolio :   <b> https://ughrahul.github.io/portfoliio.github.io/</b>
+| 👨‍💻 | Portfolio : <b><a href="https://ughrahul.github.io/portfoliio.github.io/" target="_blank">https://ughrahul.github.io/portfoliio.github.io/</a></b>
+
 
 
 <h3 align="left">Connect with me:</h3>
