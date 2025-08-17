@@ -6,7 +6,7 @@
 
 
 
-| 👨‍💻 | Portfolio : <b><a href="https://ughrahul.github.io/portfoliio.github.io/" target="_blank">https://ughrahul.github.io/portfoliio.github.io/</a></b>
+| 👨‍💻 | Portfolio : <b><a href="https://rahulkumarmandal.replit.app" target="_blank">https://rahulkumarmandal.replit.app/</a></b>
 
 
 
