@@ -6,7 +6,7 @@
 
 
 
-| 👨‍💻 | Portfolio : <b><a href="https://rahulkumarmandal.replit.app" target="_blank">https://rahulkumarmandal.replit.app/</a></b>
+| 👨‍💻 | Portfolio : <b><a href="https://rahulkumarmandal2000.com.np" target="_blank">https://rahulkumarmandal2000.com.np/</a></b>
 
 
 
